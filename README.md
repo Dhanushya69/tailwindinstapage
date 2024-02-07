@@ -1,2 +1,4 @@
 # tailwindinstapage
-instapage home page using tailwind
+instapage 
+home page using tailwind 
+its responsive 
