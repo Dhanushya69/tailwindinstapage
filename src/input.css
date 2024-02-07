@@ -1,0 +1,6 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+.story-img{
+    @apply rounded-full w-20 h-20 object-cover
+}
